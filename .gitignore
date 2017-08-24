@@ -1,0 +1,8 @@
+/target
+/screenshot
+/apk
+/src/main
+.DS_Store
+.settings
+write.properties
+writeiOS.properties
