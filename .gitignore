@@ -1,6 +1,6 @@
 /target
 /screenshot
-#/apk
+/apk
 /src/main
 .DS_Store
 .settings
