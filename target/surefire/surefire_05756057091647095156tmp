@@ -1,0 +1,6 @@
+#surefire_0
+#Fri Sep 30 16:09:15 CST 2016
+test=com.kktown.iOS.CreateItem_iOS
+basedir=/Users/mavisyu/Documents/gitlab_espresso/tars_mobile_e2e_testing
+user.dir=/Users/mavisyu/Documents/gitlab_espresso/tars_mobile_e2e_testing
+localRepository=/Users/mavisyu/.m2/repository
