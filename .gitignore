@@ -1,7 +1,7 @@
-#/target
-#/screenshot
+/target
+/screenshot
 /apk
-#/src/main
+/src/main
 .DS_Store
 .settings
 write.properties
